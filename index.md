@@ -62,3 +62,10 @@ layout: default
 
 　　总之，在利比里亚上网，就像在这里做任何事一样，需要一点灵活性和幽默感。一张小小的SIM卡，是你连接世界的钥匙，但别忘了，偶尔抬起头，看看这个手机屏幕之外、真实而生动的西非国家。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Liberia SIM 卡购买与激活指南](https://faciylike.github.io/liberia-sim-guides)
